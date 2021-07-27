@@ -6,10 +6,10 @@ import re
 import glob
 
 #GLOBALS
-DASH_URL= "file:///Users/michael/dash/index.html"
+DASH_URL= "file:///home/michael/dash/index.html"
 RECORDING_TIME = 10
-IMG_DIR = "/Users/michael/browser_recorder/imgs"
-GIF_DIR = "/Users/michael/browser_recorder/gifs"
+IMG_DIR = "/home/michael/browser_recorder/imgs"
+GIF_DIR = "/home/michael/browser_recorder/gifs"
 GIF_FILENAME = "test1.gif"
 
 #Create browser object, set kind to google chrome
